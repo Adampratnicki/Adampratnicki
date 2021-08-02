@@ -1299,14 +1299,14 @@
             }
         }
         #rec104022807 .t396__artboard {
-            height: 3600px;
+            height: 2800px;
             background-color: #f6eee3;
         }
         #rec104022807 .t396__filter {
-            height: 3600px;
+            height: 2800px;
         }
         #rec104022807 .t396__carrier {
-            height: 3600px;
+            height: 2800px;
             background-position: center center;
             background-attachment: scroll;
             background-size: cover;
@@ -1824,14 +1824,14 @@
         }
         @media screen and (max-width: 1199px) {}@media screen and (max-width: 959px) {}@media screen and (max-width: 639px) {}@media screen and (max-width: 479px) {}
         #rec104024264 .t396__artboard {
-            height: 3000px;
+            height: 2500px;
             background-color: #f6eee3;
         }
         #rec104024264 .t396__filter {
-            height: 3000px;
+            height: 2500px;
         }
         #rec104024264 .t396__carrier {
-            height: 3000px;
+            height: 2500px;
             background-position: center center;
             background-attachment: scroll;
             background-size: cover;
@@ -1839,37 +1839,37 @@
         }
         @media screen and (max-width: 1199px) {
             #rec104024264 .t396__artboard {
-                height: 2800px;
+                height: 2200px;
             }
             #rec104024264 .t396__filter {
-                height: 2800px;
+                height: 2200px;
             }
             #rec104024264 .t396__carrier {
-                height: 2800px;
+                height: 2200px;
                 background-attachment: scroll;
             }
         }
         @media screen and (max-width: 959px) {
             #rec104024264 .t396__artboard {
-                height: 2000px;
+                height: 1800px;
             }
             #rec104024264 .t396__filter {
-                height: 2000px;
+                height: 1800px;
             }
             #rec104024264 .t396__carrier {
-                height: 2000px;
+                height: 1800px;
                 background-attachment: scroll;
             }
         }
         @media screen and (max-width: 639px) {
             #rec104024264 .t396__artboard {
-                height: 1800px;
+                height: 1400px;
             }
             #rec104024264 .t396__filter {
-                height: 1800px;
+                height: 1400px;
             }
             #rec104024264 .t396__carrier {
-                height: 1800px;
+                height: 1400px;
                 background-attachment: scroll;
             }
         }
