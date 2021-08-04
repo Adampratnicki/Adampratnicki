@@ -1,0 +1,1 @@
+.collapsable_tab{max-height:72px;overflow:hidden;transition:0.5s all}.collapsable_tab h2{width:fit-content;background:rgb(221,221,221);padding:10px 30px;cursor:pointer}.collapsable_tab h2:after{content:" ↓"}.tab_open{max-height:500px}.tab_open h2:after{content:" ↑"}
