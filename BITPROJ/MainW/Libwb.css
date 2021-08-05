@@ -330,7 +330,6 @@
     #rec104024264 .tn-elem[data-elem-id="1557645682907"] {
         z-index: 10;
         top: 1744px;
-        left: calc(50% - 45px + -10px);
         width: 90%;
         height: 460px;
     }
@@ -361,7 +360,6 @@
     @media screen and (max-width: 479px) {
         #rec104024264 .tn-elem[data-elem-id="1557645682907"] {
             top: 780px;
-            left: calc(50% - 43px + 0px);
             width: 86%;
             height: 230px;
         }
@@ -1875,7 +1873,6 @@
         @media screen and (max-width: 479px) {
             #rec104024264 .tn-elem[data-elem-id="1557645682907"] {
                 top: 780px;
-                left: calc(50% - 43px + 0px);
                 width: 86%;
                 height: 230px;
             }
