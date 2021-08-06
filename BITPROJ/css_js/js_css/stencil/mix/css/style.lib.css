@@ -21284,17 +21284,18 @@ fieldset {
 .module-heading--badge {
 	position: absolute;
 	z-index: 500;
-	top: .71429rem;
+	top: 10vh;
 	left: 2.14286rem;
 	text-transform: uppercase;
-	word-spacing: 9999px
+	word-spacing: 9999px;
+	font-size: 3rem;
 }
-
 @media (max-width:550px) {
 	.module-heading--badge {
 		left: unset;
 		width: 100vw;
-		text-align: center
+		text-align: center;
+		font-size: 1.8rem;
 	}
 }
 
