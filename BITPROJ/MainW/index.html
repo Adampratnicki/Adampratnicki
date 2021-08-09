@@ -793,7 +793,7 @@
                                             }
                                         },
                                         vertexShader: "\n        varying vec2 vUv;\n        void main() {\n          vUv = uv;\n          gl_Position = projectionMatrix * modelViewMatrix * vec4( position, 1.0 );\n        }\n    ",
-                                        fragmentShader: "\n        varying vec2 vUv;\n\n        uniform sampler2D texture;\n        uniform sampler2D texture2;\n        uniform sampler2D disp;\n\n        // uniform float time;\n        // uniform float _rot;\n        uniform float dispFactor;\n        uniform float effectFactor;\n\n        // vec2 rotate(vec2 v, float a) {\n        //  float s = sin(a);\n        //  float c = cos(a);\n        //  mat2 m = mat2(c, -s, s, c);\n        //  return m * v;\n        // }\n\n        void main() {\n\n            vec2 uv = vUv;\n\n            // uv -= 0.5;\n            // vec2 rotUV = rotate(uv, _rot);\n            // uv += 0.5;\n\n            vec4 disp = texture2D(disp, uv);\n\n            vec2 distortedPosition = vec2(uv.x + dispFactor * (disp.r*effectFactor), uv.y);\n            vec2 distortedPosition2 = vec2(uv.x - (1.0 - dispFactor) * (disp.r*effectFactor), uv.y);\n\n            vec4 _texture = texture2D(texture, distortedPosition);\n            vec4 _texture2 = texture2D(texture2, distortedPosition2);\n\n            vec4 finalTexture = mix(_texture, _texture2, dispFactor);\n\n            gl_FragColor = finalTexture;\n            // gl_FragColor = disp;\n        }\n    ",
+                                        fragmentShader: "\n        varying vec2 vUv;\n\n        uniform sampler2D texture;\n        uniform sampler2D texture2;\n        uniform sampler2D disp;\n\n       // uniform float _rot;\n        uniform float dispFactor;\n        uniform float effectFactor;\n\n        // vec2 rotate(vec2 v, float a) {\n        //  float s = sin(a);\n        //  float c = cos(a);\n        //  mat2 m = mat2(c, -s, s, c);\n        //  return m * v;\n        // }\n\n        void main() {\n\n            vec2 uv = vUv;\n\n            // uv -= 0.5;\n            // vec2 rotUV = rotate(uv, _rot);\n            // uv += 0.5;\n\n            vec4 disp = texture2D(disp, uv);\n\n            vec2 distortedPosition = vec2(uv.x + dispFactor * (disp.r*effectFactor), uv.y);\n            vec2 distortedPosition2 = vec2(uv.x - (1.0 - dispFactor) * (disp.r*effectFactor), uv.y);\n\n            vec4 _texture = texture2D(texture, distortedPosition);\n            vec4 _texture2 = texture2D(texture2, distortedPosition2);\n\n            vec4 finalTexture = mix(_texture, _texture2, dispFactor);\n\n            gl_FragColor = finalTexture;\n            // gl_FragColor = disp;\n        }\n    ",
                                         transparent: !0,
                                         opacity: 1
                                     });
@@ -1070,13 +1070,6 @@
          <div class="pointer"></div>
       </div>
       <script src=jquery-3.5.1.min.dc5e7f18c8530c.js?site=5d27763c46ba9e561dc5b972" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="o_w.js" type="text/javascript"></script>
-      <script> 
-      Webflow.push(function() {
-           $(document).on('submit', 'form', function() {
-             setTimeout(function() { location.reload(true); }, 4000);
-           });
-         });
-         </script>
                                  <script src="../css_js/js_css/stencil/mix/dist/theme-bundle.main.js"></script>
                                          </body>
                                      </html>
