@@ -1,0 +1,306 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 09 Aug 2021 20:02:09 at https://www.eviltwin.io +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.eviltwin.io -O1 "C:\My Web Sites\DIAbek" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:02:46	Error: 	"Forbidden" (403) at link https://www.eviltwin.io/xmlrpc.php?rsd (from https://www.eviltwin.io/)
+20:04:32	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=169
+20:04:32	Warning: 	File has moved from https://www.eviltwin.io/?p=169 to https://www.eviltwin.io/expertise/
+20:04:32	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=182
+20:04:32	Warning: 	File has moved from https://www.eviltwin.io/?p=182 to https://www.eviltwin.io/expertise/startup-marketing/
+20:04:43	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=184
+20:04:43	Warning: 	File has moved from https://www.eviltwin.io/?p=184 to https://www.eviltwin.io/expertise/cyber-security-marketing/
+20:04:48	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=188
+20:04:48	Warning: 	File has moved from https://www.eviltwin.io/?p=188 to https://www.eviltwin.io/expertise/tech-marketing/
+20:04:53	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=186
+20:04:53	Warning: 	File has moved from https://www.eviltwin.io/?p=186 to https://www.eviltwin.io/expertise/saas-marketing/
+20:04:57	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=190
+20:04:57	Warning: 	File has moved from https://www.eviltwin.io/?p=190 to https://www.eviltwin.io/expertise/b2b-marketing/
+20:04:57	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2526
+20:04:57	Warning: 	File has moved from https://www.eviltwin.io/?p=2526 to https://www.eviltwin.io/expertise/web-design-development/
+20:04:57	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=1804
+20:04:57	Warning: 	File has moved from https://www.eviltwin.io/?p=1804 to https://www.eviltwin.io/portfolio/
+20:07:49	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=172
+20:07:49	Warning: 	File has moved from https://www.eviltwin.io/?p=172 to https://www.eviltwin.io/pricing/
+20:07:51	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=178
+20:07:51	Warning: 	File has moved from https://www.eviltwin.io/?p=178 to https://www.eviltwin.io/about/
+20:07:54	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2812
+20:07:54	Warning: 	File has moved from https://www.eviltwin.io/?p=2812 to https://www.eviltwin.io/career/
+20:07:54	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=174
+20:07:54	Warning: 	File has moved from https://www.eviltwin.io/?p=174 to https://www.eviltwin.io/resources/
+20:08:13	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=176
+20:08:13	Warning: 	File has moved from https://www.eviltwin.io/?p=176 to https://www.eviltwin.io/blog/
+20:08:36	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=180
+20:08:36	Warning: 	File has moved from https://www.eviltwin.io/?p=180 to https://www.eviltwin.io/contact/
+20:08:36	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2432
+20:08:36	Warning: 	File has moved from https://www.eviltwin.io/?p=2432 to https://www.eviltwin.io/terms-of-use/
+20:08:36	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=3
+20:08:36	Warning: 	File has moved from https://www.eviltwin.io/?p=3 to https://www.eviltwin.io/privacy-policy/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2708
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=2708 to https://www.eviltwin.io/services/website-design-development/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2702
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=2702 to https://www.eviltwin.io/services/creative-messaging-platform/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2710
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=2710 to https://www.eviltwin.io/services/analytics-tracking-measuring/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2709
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=2709 to https://www.eviltwin.io/services/digital-marketing-audit/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2717
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=2717 to https://www.eviltwin.io/services/full-seo/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2723
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=2723 to https://www.eviltwin.io/services/demand-lead-generation/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2718
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=2718 to https://www.eviltwin.io/services/multichannel-ppc/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2722
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=2722 to https://www.eviltwin.io/services/advanced-remarketing/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2719
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=2719 to https://www.eviltwin.io/services/hubspot-marketing-sales-automation/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2725
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=2725 to https://www.eviltwin.io/services/ebooks/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2714
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=2714 to https://www.eviltwin.io/services/security-hardening/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2721
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=2721 to https://www.eviltwin.io/services/content-marketing/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2728
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=2728 to https://www.eviltwin.io/services/video-marketing/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2724
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=2724 to https://www.eviltwin.io/services/account-based-marketing-abm/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2715
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=2715 to https://www.eviltwin.io/services/development-hour-bank/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2720
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=2720 to https://www.eviltwin.io/services/funnel-optimization/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2727
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=2727 to https://www.eviltwin.io/services/intent-driven-marketing/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2712
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=2712 to https://www.eviltwin.io/services/seo-compliance/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2713
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=2713 to https://www.eviltwin.io/services/seo-launch/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2730
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=2730 to https://www.eviltwin.io/services/community-influencer-marketing/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2059
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=2059 to https://www.eviltwin.io/portfolio/pcysys/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=1894
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=1894 to https://www.eviltwin.io/portfolio/spark-beyond/
+20:08:37	Error: 	"Not Found" (404) at link https://www.eviltwin.io/portfolio/spark-beyond/Array (from https://www.eviltwin.io/portfolio/spark-beyond/)
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2334
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=2334 to https://www.eviltwin.io/portfolio/deepinstinct/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=1984
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=1984 to https://www.eviltwin.io/portfolio/salt-security/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=1994
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=1994 to https://www.eviltwin.io/portfolio/inuitive/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=1968
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=1968 to https://www.eviltwin.io/portfolio/matics/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2039
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=2039 to https://www.eviltwin.io/portfolio/unbound/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2018
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=2018 to https://www.eviltwin.io/portfolio/cappitech/
+20:08:37	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2069
+20:08:37	Warning: 	File has moved from https://www.eviltwin.io/?p=2069 to https://www.eviltwin.io/portfolio/gki-group/
+09:31:45	Warning: 	Retry after error -4 (Incorrect length (2997959 Bytes, 11350466 expected)) at link https://www.eviltwin.io/wp-content/uploads/2020/12/Founders.mp4 (from https://www.eviltwin.io/portfolio/gki-group/)
+09:31:45	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2097
+09:31:45	Warning: 	File has moved from https://www.eviltwin.io/?p=2097 to https://www.eviltwin.io/portfolio/epic-branding/
+09:31:45	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2271
+09:31:45	Warning: 	File has moved from https://www.eviltwin.io/?p=2271 to https://www.eviltwin.io/portfolio/cellwize/
+09:31:45	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2130
+09:31:45	Warning: 	File has moved from https://www.eviltwin.io/?p=2130 to https://www.eviltwin.io/portfolio/datagen/
+09:31:45	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2236
+09:31:45	Warning: 	File has moved from https://www.eviltwin.io/?p=2236 to https://www.eviltwin.io/portfolio/axonize/
+09:31:45	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2303
+09:31:45	Warning: 	File has moved from https://www.eviltwin.io/?p=2303 to https://www.eviltwin.io/portfolio/p-cure/
+09:31:46	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2313
+09:31:46	Warning: 	File has moved from https://www.eviltwin.io/?p=2313 to https://www.eviltwin.io/portfolio/variscite/
+09:31:46	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2322
+09:31:46	Warning: 	File has moved from https://www.eviltwin.io/?p=2322 to https://www.eviltwin.io/portfolio/fieldbit/
+09:31:46	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2249
+09:31:46	Warning: 	File has moved from https://www.eviltwin.io/?p=2249 to https://www.eviltwin.io/portfolio/s-capital-vc/
+09:31:46	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2444
+09:31:46	Warning: 	File has moved from https://www.eviltwin.io/?p=2444 to https://www.eviltwin.io/portfolio/comsec-global/
+09:31:46	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2716
+09:31:46	Warning: 	File has moved from https://www.eviltwin.io/?p=2716 to https://www.eviltwin.io/services/inbound-marketing/
+09:31:46	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=1763
+09:31:46	Warning: 	File has moved from https://www.eviltwin.io/?p=1763 to https://www.eviltwin.io/position/inbound-marketing-account-manager/
+09:31:46	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=406
+09:31:46	Warning: 	File has moved from https://www.eviltwin.io/?p=406 to https://www.eviltwin.io/position/digital-marketing-specialist-1/
+09:31:46	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=3032
+09:31:46	Warning: 	File has moved from https://www.eviltwin.io/?p=3032 to https://www.eviltwin.io/checklist/digital-marketing-audit-checklist/
+09:31:46	Error: 	"Not Found" (404) at link https://www.eviltwin.io/?post_type=checklist&p=3067 (from https://www.eviltwin.io/checklist/digital-marketing-audit-checklist/)
+09:31:46	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=3215
+09:31:46	Warning: 	File has moved from https://www.eviltwin.io/?p=3215 to https://www.eviltwin.io/checklist/cro-checklist/
+09:31:46	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=3204
+09:31:46	Warning: 	File has moved from https://www.eviltwin.io/?p=3204 to https://www.eviltwin.io/checklist/ppc-optimization-checklist/
+09:31:46	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=3057
+09:31:46	Warning: 	File has moved from https://www.eviltwin.io/?p=3057 to https://www.eviltwin.io/checklist/youtube-checklist/
+09:31:46	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=3049
+09:31:46	Warning: 	File has moved from https://www.eviltwin.io/?p=3049 to https://www.eviltwin.io/checklist/analytics-tracking-measuring-checklist/
+09:31:46	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=3048
+09:31:46	Warning: 	File has moved from https://www.eviltwin.io/?p=3048 to https://www.eviltwin.io/checklist/social-media-alignment-checklist/
+09:31:46	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=3036
+09:31:46	Warning: 	File has moved from https://www.eviltwin.io/?p=3036 to https://www.eviltwin.io/checklist/web-design-development-checklist/
+09:31:47	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=3034
+09:31:47	Warning: 	File has moved from https://www.eviltwin.io/?p=3034 to https://www.eviltwin.io/checklist/seo-checklist/
+09:31:47	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=3068
+09:31:47	Warning: 	File has moved from https://www.eviltwin.io/?p=3068 to https://www.eviltwin.io/checklist/youtube-marketing-checklist/
+09:31:47	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2955
+09:31:47	Warning: 	File has moved from https://www.eviltwin.io/?p=2955 to https://www.eviltwin.io/checklist/messaging-matrix-checklist/
+09:31:47	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2752
+09:31:47	Warning: 	File has moved from https://www.eviltwin.io/?p=2752 to https://www.eviltwin.io/startup-marketing/podcast-episode-3-introduction-of-website-and-product-measurement-and-analytics/
+09:31:47	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=3247
+09:31:47	Warning: 	File has moved from https://www.eviltwin.io/?p=3247 to https://www.eviltwin.io/startup-marketing/ai-in-startups-should-you-implement-ai-in-your-startup-and-what-are-the-first-steps/
+09:31:47	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=3139
+09:31:47	Warning: 	File has moved from https://www.eviltwin.io/?p=3139 to https://www.eviltwin.io/startup-marketing/7-killer-ways-to-leverage-your-linkedin-company-page/
+09:31:47	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=3118
+09:31:47	Warning: 	File has moved from https://www.eviltwin.io/?p=3118 to https://www.eviltwin.io/startup-marketing/building-and-managing-social-media-communities/
+09:31:47	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=3096
+09:31:47	Warning: 	File has moved from https://www.eviltwin.io/?p=3096 to https://www.eviltwin.io/startup-marketing/digital-marketing-lies-that-have-been-told-to-startups/
+09:31:47	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=3078
+09:31:47	Warning: 	File has moved from https://www.eviltwin.io/?p=3078 to https://www.eviltwin.io/startup-marketing/startups-marketing-insights-kpis-and-mistakes-you-should-avoid-when-it-comes-to-building-a-marketing-strategy-for-your-startup/
+09:31:47	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=3042
+09:31:47	Warning: 	File has moved from https://www.eviltwin.io/?p=3042 to https://www.eviltwin.io/startup-marketing/mobile-gaming/
+09:31:47	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=3025
+09:31:47	Warning: 	File has moved from https://www.eviltwin.io/?p=3025 to https://www.eviltwin.io/startup-marketing/accelerators-and-innovative-arms-for-startups/
+09:31:47	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=3005
+09:31:47	Warning: 	File has moved from https://www.eviltwin.io/?p=3005 to https://www.eviltwin.io/startup-marketing/storytelling-and-marketing-business-presentations-for-startups/
+09:31:47	Warning: 	Moved Permanently for https://www.eviltwin.io/?p=2999
+09:31:47	Warning: 	File has moved from https://www.eviltwin.io/?p=2999 to https://www.eviltwin.io/startup-marketing/how-to-improve-your-websites-cro-what-are-the-steps-and-what-is-important-to-look-at-in-the-purchase-panel/
+09:31:48	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/uploads/2020/12/Founders.mp4 (from https://www.eviltwin.io/portfolio/gki-group/)
+09:31:48	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/uploads/2021/05/episode-6-1.jpg (from https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/)
+09:31:48	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/feed/ (from https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/)
+09:31:48	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/css/main.css?v=1628532513&ver=5.7.2 (from https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/)
+09:31:48	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/wp/v2/posts/2945 (from https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/)
+09:31:48	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/?p=2945 (from https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/)
+09:31:48	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fpodcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video%2F (from https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/)
+09:31:48	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fpodcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video%2F&format=xml (from https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/)
+09:31:48	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/js/main.min.js?v=1628532513&ver=5.7.2 (from https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/)
+09:31:48	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/uploads/2021/04/episode-5-1.jpg (from https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/)
+09:31:48	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/feed/ (from https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/)
+09:31:48	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/css/main.css?v=1628532514&ver=5.7.2 (from https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/)
+09:31:48	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/wp/v2/posts/2896 (from https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/)
+09:31:48	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/?p=2896 (from https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/)
+09:31:48	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fpodcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started%2F (from https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/)
+09:31:48	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fpodcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started%2F&format=xml (from https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/js/main.min.js?v=1628532514&ver=5.7.2 (from https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/uploads/2021/04/episode-4-1.jpg (from https://www.eviltwin.io/startup-marketing/podcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/startup-marketing/podcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup/feed/ (from https://www.eviltwin.io/startup-marketing/podcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/wp/v2/posts/2754 (from https://www.eviltwin.io/startup-marketing/podcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/?p=2754 (from https://www.eviltwin.io/startup-marketing/podcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fpodcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup%2F (from https://www.eviltwin.io/startup-marketing/podcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fpodcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup%2F&format=xml (from https://www.eviltwin.io/startup-marketing/podcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/uploads/2021/04/episode-2-2.jpg (from https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/feed/ (from https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/css/main.css?v=1628532515&ver=5.7.2 (from https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/wp/v2/posts/2749 (from https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/?p=2749 (from https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fpodcast-episode-2-messaging-platform-for-startups%2F (from https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fpodcast-episode-2-messaging-platform-for-startups%2F&format=xml (from https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/js/main.min.js?v=1628532515&ver=5.7.2 (from https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/uploads/2021/04/episode-1-4.jpg (from https://www.eviltwin.io/startup-marketing/branding-and-storytelling-for-startups-how-to-do-it-right/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/startup-marketing/branding-and-storytelling-for-startups-how-to-do-it-right/feed/ (from https://www.eviltwin.io/startup-marketing/branding-and-storytelling-for-startups-how-to-do-it-right/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/wp/v2/posts/2625 (from https://www.eviltwin.io/startup-marketing/branding-and-storytelling-for-startups-how-to-do-it-right/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/?p=2625 (from https://www.eviltwin.io/startup-marketing/branding-and-storytelling-for-startups-how-to-do-it-right/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fbranding-and-storytelling-for-startups-how-to-do-it-right%2F (from https://www.eviltwin.io/startup-marketing/branding-and-storytelling-for-startups-how-to-do-it-right/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fbranding-and-storytelling-for-startups-how-to-do-it-right%2F&format=xml (from https://www.eviltwin.io/startup-marketing/branding-and-storytelling-for-startups-how-to-do-it-right/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/uploads/2020/11/Paid-Inbound-Marketing-Campaign.jpg (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/feed/ (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/css/main.css?v=1628532516&ver=5.7.2 (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/wp/v2/posts/2488 (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/?p=2488 (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fblog%2Frun-a-paid-inbound-marketing-campaign-the-right-way%2F (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+09:31:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fblog%2Frun-a-paid-inbound-marketing-campaign-the-right-way%2F&format=xml (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/js/in-view.min.js (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/js/main.min.js?v=1628532516&ver=5.7.2 (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+09:31:50	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-content/uploads/2020/12/Founders.mp4 (from https://www.eviltwin.io/portfolio/gki-group/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/uploads/2021/05/episode-6-1.jpg (from https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/feed/ (from https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/css/main.css?v=1628532513&ver=5.7.2 (from https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/wp/v2/posts/2945 (from https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/?p=2945 (from https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fpodcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video%2F (from https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fpodcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video%2F&format=xml (from https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/js/main.min.js?v=1628532513&ver=5.7.2 (from https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/uploads/2021/04/episode-5-1.jpg (from https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/feed/ (from https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/css/main.css?v=1628532514&ver=5.7.2 (from https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/wp/v2/posts/2896 (from https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/?p=2896 (from https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fpodcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started%2F (from https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fpodcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started%2F&format=xml (from https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/js/main.min.js?v=1628532514&ver=5.7.2 (from https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/uploads/2021/04/episode-4-1.jpg (from https://www.eviltwin.io/startup-marketing/podcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/startup-marketing/podcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup/feed/ (from https://www.eviltwin.io/startup-marketing/podcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/wp/v2/posts/2754 (from https://www.eviltwin.io/startup-marketing/podcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/?p=2754 (from https://www.eviltwin.io/startup-marketing/podcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fpodcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup%2F (from https://www.eviltwin.io/startup-marketing/podcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fpodcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup%2F&format=xml (from https://www.eviltwin.io/startup-marketing/podcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/uploads/2021/04/episode-2-2.jpg (from https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/feed/ (from https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/css/main.css?v=1628532515&ver=5.7.2 (from https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/)
+09:31:50	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/wp/v2/posts/2749 (from https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/)
+09:31:51	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/?p=2749 (from https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/)
+09:31:51	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fpodcast-episode-2-messaging-platform-for-startups%2F (from https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/)
+09:31:51	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fpodcast-episode-2-messaging-platform-for-startups%2F&format=xml (from https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/)
+09:31:51	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/js/main.min.js?v=1628532515&ver=5.7.2 (from https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/)
+09:31:51	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/uploads/2021/04/episode-1-4.jpg (from https://www.eviltwin.io/startup-marketing/branding-and-storytelling-for-startups-how-to-do-it-right/)
+09:31:51	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/startup-marketing/branding-and-storytelling-for-startups-how-to-do-it-right/feed/ (from https://www.eviltwin.io/startup-marketing/branding-and-storytelling-for-startups-how-to-do-it-right/)
+09:31:51	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/wp/v2/posts/2625 (from https://www.eviltwin.io/startup-marketing/branding-and-storytelling-for-startups-how-to-do-it-right/)
+09:31:51	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/?p=2625 (from https://www.eviltwin.io/startup-marketing/branding-and-storytelling-for-startups-how-to-do-it-right/)
+09:31:51	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fbranding-and-storytelling-for-startups-how-to-do-it-right%2F (from https://www.eviltwin.io/startup-marketing/branding-and-storytelling-for-startups-how-to-do-it-right/)
+09:31:51	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fbranding-and-storytelling-for-startups-how-to-do-it-right%2F&format=xml (from https://www.eviltwin.io/startup-marketing/branding-and-storytelling-for-startups-how-to-do-it-right/)
+09:31:51	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/uploads/2020/11/Paid-Inbound-Marketing-Campaign.jpg (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+09:31:51	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/feed/ (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+09:31:51	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/css/main.css?v=1628532516&ver=5.7.2 (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+09:31:51	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/wp/v2/posts/2488 (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+09:31:51	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/?p=2488 (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+09:31:51	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fblog%2Frun-a-paid-inbound-marketing-campaign-the-right-way%2F (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+09:31:51	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fblog%2Frun-a-paid-inbound-marketing-campaign-the-right-way%2F&format=xml (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+09:31:51	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/js/in-view.min.js (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+09:31:51	Warning: 	Retry after error -4 (Connect Error) at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/js/main.min.js?v=1628532516&ver=5.7.2 (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-content/uploads/2021/05/episode-6-1.jpg (from https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/feed/ (from https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/css/main.css?v=1628532513&ver=5.7.2 (from https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-json/wp/v2/posts/2945 (from https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/?p=2945 (from https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fpodcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video%2F (from https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fpodcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video%2F&format=xml (from https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/js/main.min.js?v=1628532513&ver=5.7.2 (from https://www.eviltwin.io/startup-marketing/podcast-episode-6-explainer-videos-for-tech-and-saas-products-the-different-types-of-videos-and-how-to-make-the-best-use-of-resources-when-making-a-product-promotional-video/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-content/uploads/2021/04/episode-5-1.jpg (from https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/feed/ (from https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/css/main.css?v=1628532514&ver=5.7.2 (from https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-json/wp/v2/posts/2896 (from https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/?p=2896 (from https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fpodcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started%2F (from https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fpodcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started%2F&format=xml (from https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/js/main.min.js?v=1628532514&ver=5.7.2 (from https://www.eviltwin.io/startup-marketing/podcast-episode-5-what-can-you-do-with-automation-to-streamline-processes-in-every-aspect-of-your-startup-and-how-can-you-get-started/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-content/uploads/2021/04/episode-4-1.jpg (from https://www.eviltwin.io/startup-marketing/podcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/startup-marketing/podcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup/feed/ (from https://www.eviltwin.io/startup-marketing/podcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-json/wp/v2/posts/2754 (from https://www.eviltwin.io/startup-marketing/podcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/?p=2754 (from https://www.eviltwin.io/startup-marketing/podcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fpodcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup%2F (from https://www.eviltwin.io/startup-marketing/podcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fpodcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup%2F&format=xml (from https://www.eviltwin.io/startup-marketing/podcast-episode-4-how-to-independently-plan-and-manage-the-financial-aspects-of-your-startup/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-content/uploads/2021/04/episode-2-2.jpg (from https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/feed/ (from https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/css/main.css?v=1628532515&ver=5.7.2 (from https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-json/wp/v2/posts/2749 (from https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/?p=2749 (from https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fpodcast-episode-2-messaging-platform-for-startups%2F (from https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fpodcast-episode-2-messaging-platform-for-startups%2F&format=xml (from https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/js/main.min.js?v=1628532515&ver=5.7.2 (from https://www.eviltwin.io/startup-marketing/podcast-episode-2-messaging-platform-for-startups/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-content/uploads/2021/04/episode-1-4.jpg (from https://www.eviltwin.io/startup-marketing/branding-and-storytelling-for-startups-how-to-do-it-right/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/startup-marketing/branding-and-storytelling-for-startups-how-to-do-it-right/feed/ (from https://www.eviltwin.io/startup-marketing/branding-and-storytelling-for-startups-how-to-do-it-right/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-json/wp/v2/posts/2625 (from https://www.eviltwin.io/startup-marketing/branding-and-storytelling-for-startups-how-to-do-it-right/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/?p=2625 (from https://www.eviltwin.io/startup-marketing/branding-and-storytelling-for-startups-how-to-do-it-right/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fbranding-and-storytelling-for-startups-how-to-do-it-right%2F (from https://www.eviltwin.io/startup-marketing/branding-and-storytelling-for-startups-how-to-do-it-right/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fstartup-marketing%2Fbranding-and-storytelling-for-startups-how-to-do-it-right%2F&format=xml (from https://www.eviltwin.io/startup-marketing/branding-and-storytelling-for-startups-how-to-do-it-right/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-content/uploads/2020/11/Paid-Inbound-Marketing-Campaign.jpg (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/feed/ (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/css/main.css?v=1628532516&ver=5.7.2 (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-json/wp/v2/posts/2488 (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/?p=2488 (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fblog%2Frun-a-paid-inbound-marketing-campaign-the-right-way%2F (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.eviltwin.io%2Fblog%2Frun-a-paid-inbound-marketing-campaign-the-right-way%2F&format=xml (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/js/in-view.min.js (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+09:31:51	Error: 	"Connect Error" (-4) after 2 retries at link https://www.eviltwin.io/wp-content/themes/eviltwin/lib/js/main.min.js?v=1628532516&ver=5.7.2 (from https://www.eviltwin.io/blog/run-a-paid-inbound-marketing-campaign-the-right-way/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 hours 29 minutes 42 seconds : 1055 links scanned, 836 files written (294067316 bytes overall) [284862880 bytes received at 5863 bytes/sec], 16184297 bytes transferred using HTTP compression in 443 files, ratio 22%, 5.7 requests per connection
+(49 errors, 246 warnings, 0 messages)
