@@ -25,7 +25,7 @@ h6 {
 }
 
 .c1 {
-	color: #F21D54
+	color: #f0353c
 }
 
 .c1h {
@@ -33,14 +33,14 @@ h6 {
 }
 
 .bg1 {
-	background-color: #F21D54
+	background-color: #f0353c
 }
 
 .bg1h {
 	background-color: #e80d46
 }
 
-@c ~1: extract(#F21D54, #572BB8, #9870ff, #4c90ff, 1);
+@c ~1: extract(#f0353c, #572BB8, #9870ff, #4c90ff, 1);
 .c2 {
 	color: #572BB8
 }
@@ -57,7 +57,7 @@ h6 {
 	background-color: #4d26a3
 }
 
-@c ~2: extract(#F21D54, #572BB8, #9870ff, #4c90ff, 2);
+@c ~2: extract(#f0353c, #572BB8, #9870ff, #4c90ff, 2);
 .c3 {
 	color: #9870ff
 }
@@ -74,7 +74,7 @@ h6 {
 	background-color: #8657ff
 }
 
-@c ~3: extract(#F21D54, #572BB8, #9870ff, #4c90ff, 3);
+@c ~3: extract(#f0353c, #572BB8, #9870ff, #4c90ff, 3);
 .c4 {
 	color: #4c90ff
 }
@@ -91,7 +91,7 @@ h6 {
 	background-color: #3280ff
 }
 
-@c ~4: extract(#F21D54, #572BB8, #9870ff, #4c90ff, 4);
+@c ~4: extract(#f0353c, #572BB8, #9870ff, #4c90ff, 4);
 .fs10 {
 	font-size: 10px
 }
@@ -263,10 +263,6 @@ h6 {
 
 .uline {
 	text-decoration: underline
-}
-
-.upcase {
-	text-transform: uppercase
 }
 
 .dnone {
@@ -526,17 +522,11 @@ button:focus {
 }
 
 .btn-danger {
-	background-color: #F21D54;
+	background-color: #f0353c;
 	color: #fff;
 	border: none;
 	-webkit-border-radius: 31px;
 	border-radius: 31px
-}
-
-.btn-danger:hover,
-.btn-danger:focus,
-.btn-danger:active {
-	background-color: #9870ff
 }
 
 .btn-info {
@@ -571,7 +561,6 @@ button:focus {
 	color: #4c90ff;
 	font-size: 24px;
 	font-weight: 500;
-	text-transform: uppercase;
 	line-height: 1.67
 }
 
@@ -596,17 +585,17 @@ button:focus {
 }
 
 .common-link1 {
-	color: #F21D54;
+	color: #f0353c;
 	position: relative
 }
 
 .common-link1:hover {
-	color: #F21D54;
+	color: #f0353c;
 	text-decoration: none
 }
 
 .common-link1:after {
-	border-bottom: 2px solid #f21d54;
+	border-bottom: 2px solid #f0353c;
 	width: 100%;
 	position: absolute;
 	height: 2px;
@@ -1017,14 +1006,6 @@ footer .cplinks a {
 	-o-transition: all .2s ease;
 	transition: all .2s ease
 }
-
-#getStartedForm .reach-you .active label {
-	top: -10px;
-	font-size: 14px;
-	z-index: 4;
-	color: rgba(255, 255, 255, 0.9)
-}
-
 .mcDynamicTxtCenter .container {
 	width: 730px
 }
@@ -1253,7 +1234,7 @@ footer .cplinks a {
 .home #expertise-section .sliderNav:active,
 .home #expertise-section .sliderNav:focus {
 	text-decoration: none;
-	color: #F21D54
+	color: #f0353c
 }
 
 .home #expertise-section .slick-dots {
@@ -1272,14 +1253,14 @@ footer .cplinks a {
 	content: '';
 	width: 7px;
 	height: 100%;
-	background-color: #F21D54;
+	background-color: #f0353c;
 	position: absolute;
 	top: 0;
 	right: 5%
 }
 
 .home #expertise-section .slick-dots .slick-active .btn {
-	color: #F21D54
+	color: #f0353c
 }
 
 .home #expertise-section #expertiSlider .expSlide {
@@ -1522,7 +1503,7 @@ footer .cplinks a {
 	height: 13px;
 	-webkit-border-radius: 50%;
 	border-radius: 50%;
-	background-color: #F21D54;
+	background-color: #f0353c;
 	position: absolute;
 	left: 0;
 	top: 5px
@@ -1916,10 +1897,9 @@ footer .cplinks a {
 }
 
 #pricing-wrap #pricing-section .nav-tabs .nav-link.active {
-	color: #f21655;
+	color: #f0353c;
 	background-color: transparent;
 	border-color: transparent;
-	text-shadow: 2px 2px #000, 2px -2px #000, -2px 2px #000, -2px -2px #000;
 	font-weight: 600
 }
 
@@ -1929,7 +1909,7 @@ footer .cplinks a {
 
 #pricing-wrap #pricing-section .nav-tabs .nav-link.active span:after {
 	left: 0;
-	background-color: #F21D54
+	background-color: #f0353c
 }
 
 #pricing-wrap #pricing-section .pricing-block .inner {
@@ -1939,7 +1919,7 @@ footer .cplinks a {
 }
 
 #pricing-wrap #pricing-section .pricing-block:not(:last-child) {
-	border-right: solid 3px #f21655
+	border-right: solid 4px #f0353c
 }
 
 #pricing-wrap #pricing-section .pricing-block .icon {
@@ -2254,11 +2234,11 @@ footer .cplinks a {
 .serviceBox1.showmore .rmore {
 	font-size: 20px;
 	font-weight: lighter;
-	border-bottom: 1px solid #f21d54;
+	border-bottom: 1px solid #f0353c;
 	display: inline-block;
 	width: fit-content;
 	margin: 0 auto;
-	color: #f21d54
+	color: #f0353c
 }
 
 .serviceBox1.showmore .rmore:hover {
@@ -2618,7 +2598,7 @@ footer .cplinks a {
 }
 
 #about-wrap #team-section .member-box .role {
-	color: #F21D54;
+	color: #f0353c;
 	font-size: 18px;
 	font-weight: 300;
 	line-height: 1.44
@@ -2944,7 +2924,6 @@ footer .cplinks a {
 	color: #4c90ff;
 	font-size: 24px;
 	font-weight: 500;
-	text-transform: uppercase;
 	line-height: 1.67;
 	margin-bottom: 20px
 }
@@ -3084,7 +3063,7 @@ footer .cplinks a {
 
 #single-post .reading-bar {
 	width: 0;
-	background-color: #F21D54;
+	background-color: #f0353c;
 	height: 3px;
 	position: fixed;
 	top: 0;
@@ -3101,7 +3080,6 @@ footer .cplinks a {
 	color: #4c90ff;
 	font-size: 24px;
 	font-weight: 500;
-	text-transform: uppercase;
 	line-height: 1.67;
 	display: block;
 	margin-block: 20px
@@ -3143,7 +3121,7 @@ footer .cplinks a {
 }
 
 #single-post .post-head .meta .val {
-	color: #F21D54;
+	color: #f0353c;
 	font-weight: 600
 }
 
@@ -3152,7 +3130,7 @@ footer .cplinks a {
 }
 
 #single-post .post-head .shareList a {
-	color: #F21D54;
+	color: #f0353c;
 	font-size: 22px;
 	line-height: 1.8
 }
@@ -3462,7 +3440,7 @@ footer .cplinks a {
 }
 
 #single-post.pillarContent #topicnav a.active {
-	border-left: 3px solid #f21d54
+	border-left: 3px solid #f0353c
 }
 
 #single-post.pillarContent #related-widget {
@@ -3648,7 +3626,7 @@ footer .cplinks a {
 }
 
 #single-position .position-form .wpcf7-not-valid-tip {
-	color: #f21d54;
+	color: #f0353c;
 	font-size: 10px;
 	position: absolute;
 	top: -7px;
@@ -3662,7 +3640,7 @@ footer .cplinks a {
 #single-position .position-form .wpcf7 form.invalid .wpcf7-response-output,
 #single-position .position-form .wpcf7 form.unaccepted .wpcf7-response-output {
 	border-color: transparent;
-	color: #f21d54;
+	color: #f0353c;
 	text-align: center;
 	font-size: 20px
 }
@@ -3975,8 +3953,7 @@ footer .cplinks a {
 #errorpage-wrap .page-title {
 	font-size: 6vw;
 	font-weight: bold;
-	text-transform: uppercase;
-	color: #f21d54
+	color: #f0353c
 }
 
 #errorpage-wrap .page-text {
@@ -4006,7 +3983,6 @@ footer .cplinks a {
 #career #head-section .section-title {
 	font-size: 6vw;
 	font-weight: bold;
-	text-transform: uppercase
 }
 
 #career #head-section .section-text {
@@ -4304,7 +4280,7 @@ footer .cplinks a {
 }
 
 .single-checklist .sharelist a:hover {
-	color: #F21D54
+	color: #f0353c
 }
 
 .single-checklist .list-related li {
@@ -4330,8 +4306,8 @@ footer .cplinks a {
 
 .single-checklist .custom-control-input:checked~.custom-control-label::before {
 	color: #fff;
-	border-color: #f21d54;
-	background-color: #f21d54
+	border-color: #f0353c;
+	background-color: #f0353c
 }
 
 .single-checklist[data-theme="light"] {
@@ -7529,7 +7505,7 @@ footer .cplinks a {
 		background-color: #f21655
 	}
 	.home #latets-section .date {
-		color: #F21D54;
+		color: #f0353c;
 		font-size: 18px;
 		margin: 30px 0 22px;
 		line-height: 1.44
@@ -7805,7 +7781,7 @@ footer .cplinks a {
 	#pricing-wrap #pricing-section .slider:after {
 		-webkit-border-radius: 17px;
 		border-radius: 17px;
-		background-color: #F21D54;
+		background-color: #f0353c;
 		position: absolute;
 		top: 3px;
 		left: 4px;
