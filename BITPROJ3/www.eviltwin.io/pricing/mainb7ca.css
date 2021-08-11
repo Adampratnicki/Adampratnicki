@@ -1684,7 +1684,7 @@ footer .cplinks a {
 	padding: 25px 30px 40px 30px;
 	height: 370px;
 	cursor: pointer;
-	background: #110438;
+	background: #e7d6c4;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -2027,7 +2027,7 @@ footer .cplinks a {
 }
 
 #pricing-wrap #individual-section .service-box .inner {
-	background: #110438;
+	background: #e7d6c4;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -2073,7 +2073,7 @@ footer .cplinks a {
 }
 
 #pricing-wrap #individual-section .modal-content {
-	background: #110438;
+	background: #e7d6c4;
 	padding: 30px;
 	position: relative
 }
@@ -2130,7 +2130,7 @@ footer .cplinks a {
 	padding: 25px 20px 40px;
 	height: 370px;
 	cursor: pointer;
-	background: #110438;
+	background: #e7d6c4;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;

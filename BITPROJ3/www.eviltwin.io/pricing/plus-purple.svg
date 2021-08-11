@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="30" viewBox="0 0 32 30">
-    <g fill="none" fill-rule="evenodd" stroke="#4C90FF" stroke-width="5">
-        <path d="M14.318 0L14.318 30M30 15.768L0 15.596" transform="translate(1)"/>
-    </g>
-</svg>
+<svg id="Warstwa_1" data-name="Warstwa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 30"><path d="M15.32,0V30M31,15.77,1,15.6" fill="none" stroke="#4c90ff" stroke-width="5"/><rect y="12.98" width="32" height="5.23" fill="#1d1d1b"/><rect x="12.77" width="5.17" height="30" fill="#1d1d1b"/></svg>
