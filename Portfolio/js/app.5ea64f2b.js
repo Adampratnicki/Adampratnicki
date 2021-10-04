@@ -540,9 +540,6 @@
         var R = {
                 class: "input-container"
             },
-            W = Object(n["j"])("span", {
-                class: "input-label"
-            }, "Name your board", -1),
             Y = {
                 class: "input-icon-wrapper pointer"
             },
@@ -626,11 +623,6 @@
                     boardUrl: function() {
                         return "/create?boardName=".concat(this.boardName)
                     },
-                    placeholder: function() {
-                        if (window.innerWidth < 768) return "Name your board";
-                        var e = Math.floor(Math.random() * this.placeholders.length);
-                        return this.placeholders[e]
-                    }
                 }
             };
         r("1182");
