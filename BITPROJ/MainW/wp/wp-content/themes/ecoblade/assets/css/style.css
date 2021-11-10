@@ -2894,12 +2894,6 @@ body.-pageLoad .underObj__img img {
   margin-top: 10px;
 }
 
-@media (min-width: 751px) {
-  .about {
-    margin-top: 138px;
-  }
-}
-
 @media (max-width: 750px) {
   .about {
     margin-top: 80px;
