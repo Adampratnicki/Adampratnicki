@@ -1,0 +1,79 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 22 Nov 2021 18:33:19 at https://www.urbanfigphotography.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.urbanfigphotography.com -O1 "C:\My Web Sites\https___www.urbanfigphotography.com" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:33:34	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.urbanfigphotography.com/)
+18:33:34	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/contact-us (from https://www.urbanfigphotography.com/)
+18:34:24	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/contact-us (from https://www.urbanfigphotography.com/)
+18:34:24	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/portfolio/whonnock-lake-wedding-allison-brody (from https://www.urbanfigphotography.com/portfolio)
+18:34:40	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/portfolio/chilliwack-lake-engagement-joylynn-deshonn (from https://www.urbanfigphotography.com/portfolio)
+18:34:52	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/portfolio/backyard-wedding-in-chilliwack-matt-kaye-lani (from https://www.urbanfigphotography.com/portfolio)
+18:34:52	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/portfolio/jones-lake-engagement-rick-meg (from https://www.urbanfigphotography.com/portfolio)
+18:34:52	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/portfolio/alexandra-bridge-engagement-dan-janna (from https://www.urbanfigphotography.com/portfolio)
+18:35:03	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/portfolio/vacation-to-maui-jared-haibon-ashley-laconetti (from https://www.urbanfigphotography.com/portfolio)
+18:35:03	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/portfolio/douglas-taylor-park-engagement-wendy-miguel (from https://www.urbanfigphotography.com/portfolio)
+18:35:40	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/portfolio/farm-wedding-in-chilliwack-greg-breanna (from https://www.urbanfigphotography.com/portfolio)
+18:35:40	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/portfolio/stormy-backyard-wedding-tyler-amanda (from https://www.urbanfigphotography.com/portfolio)
+18:35:40	Warning: 	Retry after error 500 (Internal Server Error) at link https://uploads-ssl.webflow.com/60aa409b8981a4c98ef2088c/60bd45f7d6091394773156a5_1. UFP - Main Image.JPG (from https://www.urbanfigphotography.com/portfolio)
+18:35:58	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/portfolio/triple-swaan-nursery-wedding-angie-alex (from https://www.urbanfigphotography.com/portfolio)
+18:35:58	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/portfolio/the-falls-golf-club-wedding-travis-michelle (from https://www.urbanfigphotography.com/portfolio)
+18:36:19	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/portfolio/destination-wedding-photographer-kyle-erin (from https://www.urbanfigphotography.com/portfolio)
+18:36:44	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/courses/mentoring-video-call (from https://www.urbanfigphotography.com/courses)
+18:36:45	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/courses/advanced-workshop (from https://www.urbanfigphotography.com/courses)
+18:36:45	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/courses/one-on-one-mentoring (from https://www.urbanfigphotography.com/courses)
+18:36:45	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/courses/two-on-one-mentoring (from https://www.urbanfigphotography.com/courses)
+18:36:49	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/"https://uploads-ssl.webflow.com/60957e41b0916c05d9fd11ea/60bfcfcf94820e62d3293dc7_Urban Fig Photography - Jete Devisser - Wedding Photographer - Chilliwack, BC-poster-00001.jpg" (from https://www.urbanfigphotography.com/about-us)
+18:37:24	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link https://www.urbanfigphotography.com/contact-us (from https://www.urbanfigphotography.com/)
+18:37:24	Warning: 	Retry after error 504 () at link https://www.urbanfigphotography.com/portfolio/whonnock-lake-wedding-allison-brody (from https://www.urbanfigphotography.com/portfolio)
+18:37:24	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/portfolio/chilliwack-lake-engagement-joylynn-deshonn (from https://www.urbanfigphotography.com/portfolio)
+18:37:24	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/portfolio/backyard-wedding-in-chilliwack-matt-kaye-lani (from https://www.urbanfigphotography.com/portfolio)
+18:37:24	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/portfolio/jones-lake-engagement-rick-meg (from https://www.urbanfigphotography.com/portfolio)
+18:37:28	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/portfolio/alexandra-bridge-engagement-dan-janna (from https://www.urbanfigphotography.com/portfolio)
+18:38:03	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/portfolio/vacation-to-maui-jared-haibon-ashley-laconetti (from https://www.urbanfigphotography.com/portfolio)
+18:38:04	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/portfolio/douglas-taylor-park-engagement-wendy-miguel (from https://www.urbanfigphotography.com/portfolio)
+18:38:04	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/portfolio/farm-wedding-in-chilliwack-greg-breanna (from https://www.urbanfigphotography.com/portfolio)
+18:38:07	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/portfolio/stormy-backyard-wedding-tyler-amanda (from https://www.urbanfigphotography.com/portfolio)
+18:38:42	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/portfolio/triple-swaan-nursery-wedding-angie-alex (from https://www.urbanfigphotography.com/portfolio)
+18:38:43	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/portfolio/the-falls-golf-club-wedding-travis-michelle (from https://www.urbanfigphotography.com/portfolio)
+18:38:43	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/portfolio/destination-wedding-photographer-kyle-erin (from https://www.urbanfigphotography.com/portfolio)
+18:38:46	Error: 	Exit requested by shell or user
+18:38:46	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/portfolio/swaneset-wedding-kayla-clayton (from https://www.urbanfigphotography.com/portfolio?29d91aad_page=2)
+18:38:47	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/portfolio?29d91aad_page=1 (from https://www.urbanfigphotography.com/portfolio?29d91aad_page=2)
+18:38:47	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/courses/mentoring-video-call (from https://www.urbanfigphotography.com/courses)
+18:38:47	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/courses/advanced-workshop (from https://www.urbanfigphotography.com/courses)
+18:38:47	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/courses/one-on-one-mentoring (from https://www.urbanfigphotography.com/courses)
+18:38:47	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/courses/two-on-one-mentoring (from https://www.urbanfigphotography.com/courses)
+18:38:47	Warning: 	Retry after error 504 (GATEWAY_TIMEOUT) at link https://www.urbanfigphotography.com/"https://uploads-ssl.webflow.com/60957e41b0916c05d9fd11ea/60bfcfcf94820e62d3293dc7_Urban Fig Photography - Jete Devisser - Wedding Photographer - Chilliwack, BC-poster-00001.jpg" (from https://www.urbanfigphotography.com/about-us)
+18:38:47	Error: 	"" (504) after 2 retries at link https://www.urbanfigphotography.com/portfolio/whonnock-lake-wedding-allison-brody (from https://www.urbanfigphotography.com/portfolio)
+18:38:47	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link https://www.urbanfigphotography.com/portfolio/chilliwack-lake-engagement-joylynn-deshonn (from https://www.urbanfigphotography.com/portfolio)
+18:38:47	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link https://www.urbanfigphotography.com/portfolio/backyard-wedding-in-chilliwack-matt-kaye-lani (from https://www.urbanfigphotography.com/portfolio)
+18:38:47	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link https://www.urbanfigphotography.com/portfolio/jones-lake-engagement-rick-meg (from https://www.urbanfigphotography.com/portfolio)
+18:38:47	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link https://www.urbanfigphotography.com/portfolio/alexandra-bridge-engagement-dan-janna (from https://www.urbanfigphotography.com/portfolio)
+18:38:47	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link https://www.urbanfigphotography.com/portfolio/vacation-to-maui-jared-haibon-ashley-laconetti (from https://www.urbanfigphotography.com/portfolio)
+18:38:47	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link https://www.urbanfigphotography.com/portfolio/douglas-taylor-park-engagement-wendy-miguel (from https://www.urbanfigphotography.com/portfolio)
+18:38:47	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link https://www.urbanfigphotography.com/portfolio/farm-wedding-in-chilliwack-greg-breanna (from https://www.urbanfigphotography.com/portfolio)
+18:38:47	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link https://www.urbanfigphotography.com/portfolio/stormy-backyard-wedding-tyler-amanda (from https://www.urbanfigphotography.com/portfolio)
+18:38:47	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link https://www.urbanfigphotography.com/portfolio/triple-swaan-nursery-wedding-angie-alex (from https://www.urbanfigphotography.com/portfolio)
+18:38:47	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link https://www.urbanfigphotography.com/portfolio/the-falls-golf-club-wedding-travis-michelle (from https://www.urbanfigphotography.com/portfolio)
+18:38:47	Error: 	"GATEWAY_TIMEOUT" (504) after 2 retries at link https://www.urbanfigphotography.com/portfolio/destination-wedding-photographer-kyle-erin (from https://www.urbanfigphotography.com/portfolio)
+18:38:47	Warning: 	File not added due to mirror cancel: https://www.urbanfigphotography.com/portfolio/swaneset-wedding-kayla-clayton
+18:38:47	Error: 	"mirror stopped by user" (-1) at link https://www.urbanfigphotography.com/portfolio/swaneset-wedding-kayla-clayton (from https://www.urbanfigphotography.com/portfolio?29d91aad_page=2)
+18:38:47	Warning: 	File not added due to mirror cancel: https://www.urbanfigphotography.com/portfolio?29d91aad_page=1
+18:38:47	Error: 	"mirror stopped by user" (-1) at link https://www.urbanfigphotography.com/portfolio?29d91aad_page=1 (from https://www.urbanfigphotography.com/portfolio?29d91aad_page=2)
+18:38:47	Warning: 	File not added due to mirror cancel: https://www.urbanfigphotography.com/courses/mentoring-video-call
+18:38:47	Error: 	"mirror stopped by user" (-1) at link https://www.urbanfigphotography.com/courses/mentoring-video-call (from https://www.urbanfigphotography.com/courses)
+18:38:47	Warning: 	File not added due to mirror cancel: https://www.urbanfigphotography.com/courses/advanced-workshop
+18:38:47	Error: 	"mirror stopped by user" (-1) at link https://www.urbanfigphotography.com/courses/advanced-workshop (from https://www.urbanfigphotography.com/courses)
+18:38:47	Warning: 	File not added due to mirror cancel: https://www.urbanfigphotography.com/courses/one-on-one-mentoring
+18:38:47	Error: 	"mirror stopped by user" (-1) at link https://www.urbanfigphotography.com/courses/one-on-one-mentoring (from https://www.urbanfigphotography.com/courses)
+18:38:47	Warning: 	File not added due to mirror cancel: https://www.urbanfigphotography.com/courses/two-on-one-mentoring
+18:38:47	Error: 	"mirror stopped by user" (-1) at link https://www.urbanfigphotography.com/courses/two-on-one-mentoring (from https://www.urbanfigphotography.com/courses)
+18:38:47	Warning: 	File not added due to mirror cancel: https://www.urbanfigphotography.com/"https://uploads-ssl.webflow.com/60957e41b0916c05d9fd11ea/60bfcfcf94820e62d3293dc7_Urban Fig Photography - Jete Devisser - Wedding Photographer - Chilliwack, BC-poster-00001.jpg"
+18:38:47	Error: 	"mirror stopped by user" (-1) at link https://www.urbanfigphotography.com/"https://uploads-ssl.webflow.com/60957e41b0916c05d9fd11ea/60bfcfcf94820e62d3293dc7_Urban Fig Photography - Jete Devisser - Wedding Photographer - Chilliwack, BC-poster-00001.jpg" (from https://www.urbanfigphotography.com/about-us)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 28 seconds : 442 links scanned, 381 files written (242056930 bytes overall) [240536002 bytes received at 733341 bytes/sec], 2223083 bytes transferred using HTTP compression in 29 files, ratio 20%, 8.8 requests per connection
+(22 errors, 46 warnings, 0 messages)
